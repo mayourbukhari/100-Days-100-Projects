@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="script.js"></script>
+    <title>Animated Panda Login Page by possiblecode</title>
+</head>
+<body>
+  <div class="panda">
+    <div class="ear"></div>
+    <div class="face">
+      <div class="eye-shade"></div>
+      <div class="eye-white">
+        <div class="eye-ball"></div>
+      </div>
+      <div class="eye-shade rgt"></div>
+      <div class="eye-white rgt">
+        <div class="eye-ball"></div>
+      </div>
+      <div class="nose"></div>
+      <div class="mouth"></div>
+    </div>
+    <div class="body"> </div>
+    <div class="foot">
+      <div class="finger"></div>
+    </div>
+    <div class="foot rgt">
+      <div class="finger"></div>
+    </div>
+  </div>
+  <form>
+    <div class="hand"></div>
+    <div class="hand rgt"></div>
+    <h1>PossibleCode</h1>
+    <div class="form-group">
+      <input required="required" class="form-control"/>
+      <label class="form-label">Username : possiblecode</label>
+    </div>
+    <div class="form-group">
+      <input id="password" type="password" required="required" class="form-control"/>
+      <label class="form-label">Password</label>
+      <p class="alert">Bhr to le bro phle..!!</p>
+      <button class="btn" id="loginBtn">Login</button>
+      <script>
+var eyeClosed = false; // Variable to track if the eyes are closed
+
+document.getElementById('loginBtn').addEventListener('click', function() {
+  // Toggle the class to close/open the eyes
+  if (eyeClosed) {
+    document.querySelector('.eye-ball').style.height = '20px'; // Open the eyes
+  } else {
+    document.querySelector('.eye-ball').style.height = '0px'; // Close the eyes
+  }
+  eyeClosed = !eyeClosed; // Toggle the variable
+});
+</script>
+    </div>
+  </form>
+</body>
+</html>
+
