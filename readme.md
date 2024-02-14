@@ -43,6 +43,43 @@ In this challenge, you will embark on a journey to create 100 different web deve
 - [Codecademy](https://www.codecademy.com/): Offers interactive coding lessons on various programming languages and frameworks.
 - [GitHub](https://github.com/): A platform for hosting and sharing code repositories. You can find inspiration from other developers' projects and collaborate with others.
 
+### 🛡️ Skills
+
+
+![HTML](https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS-5E5E5E?style=for-the-badge&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-5E5E5E?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-5E5E5E?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-5E5E5E?style=for-the-badge&logo=node.js&logoColor=339933) ![MongoDB](https://img.shields.io/badge/MongoDB-5E5E5E?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+**Skill Level:** Beginner to Pro
+
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/LkxiDPFHOpfQrDi2xH/giphy.gif">
+
+<h3 align="left"> Connect with me:</h3>
+<div align="left">
+  <a href="https://www.possiblecode.tech/">
+    <img src="https://img.shields.io/badge/Visit%20Website-Portfolio-blue?style=for-the-badge" alt="PossibleCode" />
+  </a>
+  <a href="mailto:smayour82@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-Contact-informational?style=for-the-badge&logo=gmail" alt="Mail" />
+  </a>
+  <a href="https://www.linkedin.com/in/syed-mohsin-bukhari/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/Possible_Code">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
+  </a>
+  <a href="https://github.com/mayourbukhari">
+    <img src="https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/possible.code">
+    <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="https://kaggle.com/mayourbukhari">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle" alt="Kaggle" />
+  </a>
+  <a href="https://mayourbukhari.github.io/Personal-Portfolio">
+    <img src="https://img.shields.io/badge/Visit%20Website-Portfolio-blue?style=for-the-badge" alt="Visit Website" />
+  </a>
+</div>
+
 ## Conclusion
 
 The 100 Days, 100 Projects Challenge for Web Development is a fantastic opportunity to enhance your skills, build a portfolio, and connect with the web development community. Get ready to embark on this exciting journey and unleash your creativity! Happy coding! 🚀🌐
