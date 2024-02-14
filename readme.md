@@ -55,7 +55,7 @@ In this challenge, you will embark on a journey to create 100 different web deve
 <h3 align="left"> Connect with me:</h3>
 <div align="left">
   <a href="https://www.possiblecode.tech/">
-    <img src="https://img.shields.io/badge/Visit%20Website-Portfolio-blue?style=for-the-badge" alt="PossibleCode" />
+    <img src="https://img.shields.io/badge/Visit%20Website-PossibleCode-blue?style=for-the-badge" alt="PossibleCode" />
   </a>
   <a href="mailto:smayour82@gmail.com">
     <img src="https://img.shields.io/badge/Mail-Contact-informational?style=for-the-badge&logo=gmail" alt="Mail" />
@@ -70,7 +70,7 @@ In this challenge, you will embark on a journey to create 100 different web deve
     <img src="https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.instagram.com/possible.code">
-    <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
   <a href="https://kaggle.com/mayourbukhari">
     <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle" alt="Kaggle" />
